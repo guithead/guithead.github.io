@@ -38,12 +38,10 @@ body {
 .container {
   max-width: 1000px;
   margin: 0 auto;
-  position: fixed;
 }
 #footer {
   background-color: #2f2f2f;
   padding: 50px 0;
-  position: fixed;
 }
 .column {
   min-width: 300px;
