@@ -38,6 +38,7 @@ body {
 .container {
   max-width: 1000px;
   margin: 0 auto;
+  position: fixed;
 }
 #footer {
   background-color: #2f2f2f;
