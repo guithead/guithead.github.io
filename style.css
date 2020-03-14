@@ -4,6 +4,7 @@ body {
   color: #555;
   margin: 0;
   font-family: ´Montserrat´, sans-serif;
+  padding-bottom: 6rem;
 }
 #header {
   background-color: #1abc9c;
@@ -43,6 +44,7 @@ body {
   background-color: #2f2f2f;
   padding: 50px 0;
   width: 100%;
+  position: absolute;
 }
 .column {
   min-width: 300px;
