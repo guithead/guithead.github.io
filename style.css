@@ -63,7 +63,7 @@ body {
 
 }
 .column {
-  min-width: 300px;
+  min-width: 370px;
   display: inline-block;
   vertical-align: top;
 }
